@@ -33,4 +33,4 @@
 
 #### Fun Fact
 
-🐶 I have a furry friend named Max, who often keeps me company during coding sessions!
+🐶 I have a furry friend named Teddy - we are all just living in his world.
