@@ -1,3 +1,14 @@
+### Christopher Rizo | People Leader & Management Consultant
+
+👋 Hi there! Welcome to my GitHub profile. I'm Christopher Rizo, and I am a passionate people leader, innovator, and management consultant. I have been capitvated by the endless possibilities that data can bring to the table, and how AI/ML play a pivotal role in the radical innovation we see in the future.
+
+🚀 Here, you'll find a collection of projects that reflect my love for problem-solving, clean code, and continuous learning. From web applications and APIs to machine learning experiments, I enjoy exploring diverse technologies to expand my skill set.
+
+🌱 I'm always eager to collaborate on exciting projects and learn from others. Feel free to explore my repositories and don't hesitate to reach out if you'd like to work together or have any questions!
+
+📫 You can connect with me via [LinkedIn](https://www.linkedin.com/in/christopherrizo/). 
+
+
 #### About Me
 
 - 💻 People, AI, and Data Engineer | 🌐 Web Enthusiast | 🤖 AI/ML Enthusiast
