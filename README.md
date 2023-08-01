@@ -1,9 +1,10 @@
 #### About Me
 
-- 💻 Software Developer | 🌐 Web Enthusiast | 🤖 AI/ML Enthusiast
-- 🏢 Currently working at [Your Company/Institution]
-- 🎓 Bachelor of Computer Science (Year Graduated) from [Your University]
-- 🌍 Based in [Your City], [Your Country]
+- 💻 People, AI, and Data Engineer | 🌐 Web Enthusiast | 🤖 AI/ML Enthusiast
+- 🏢 Currently working at PwC as a Senior Management Consultant Manager 
+- 🎓 Graduate Degree in Data and Information Science (2025) from UC Berkeley
+- 🎓 Graduate Degree (MBA) in Business Administration (2025) from William & Mary
+- 🌍 Based in [Charlotte], [USA]
 - 📚 Lifelong Learner | 🎯 Goal-Oriented | 🤝 Team Player
 
 #### Skills
