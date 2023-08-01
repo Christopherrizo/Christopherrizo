@@ -1,16 +1,35 @@
-### Hi there 👋
+#### About Me
 
-<!--
-**Christopherrizo/Christopherrizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Software Developer | 🌐 Web Enthusiast | 🤖 AI/ML Enthusiast
+- 🏢 Currently working at [Your Company/Institution]
+- 🎓 Bachelor of Computer Science (Year Graduated) from [Your University]
+- 🌍 Based in [Your City], [Your Country]
+- 📚 Lifelong Learner | 🎯 Goal-Oriented | 🤝 Team Player
 
-Here are some ideas to get you started:
+#### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript (Node.js, React), Python, Java, C++
+- **Web Development**: HTML, CSS, Sass, Bootstrap, Express.js
+- **Databases**: MySQL, MongoDB
+- **Machine Learning**: TensorFlow, Scikit-learn
+- **Tools**: Git, VS Code, Jupyter Notebook
+- **Other**: RESTful APIs, Agile Development
+
+#### Interests
+
+- 🌱 Open Source Contributions
+- 🚀 Frontend and Backend Development
+- 🤖 Artificial Intelligence and Machine Learning
+- 🎮 Game Development
+- 📸 Photography and Video Editing
+
+#### Hobbies
+
+- 🏸 Badminton
+- 🎵 Playing the Guitar
+- 📖 Reading Science Fiction
+- 🎮 Gaming (FPS and Strategy)
+
+#### Fun Fact
+
+🐶 I have a furry friend named Max, who often keeps me company during coding sessions!
