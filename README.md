@@ -20,12 +20,12 @@
 
 #### Skills
 
-- **Languages**: JavaScript (Node.js, React), Python, Java, C++
-- **Web Development**: HTML, CSS, Sass, Bootstrap, Express.js
-- **Databases**: MySQL, MongoDB
-- **Machine Learning**: TensorFlow, Scikit-learn
-- **Tools**: Git, VS Code, Jupyter Notebook
-- **Other**: RESTful APIs, Agile Development
+- **Languages**: 
+- **Web Development**: 
+- **Databases**: 
+- **Machine Learning**: 
+- **Tools**: 
+- **Other**: 
 
 #### Interests
 
